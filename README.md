@@ -34,10 +34,12 @@ The hand menu appears on the ulnar side of the user's hand when either the user 
 - **Exit Button**: Opens an additional "Exit BlipTune?" dialogue <br/>
 ![Confirm Exit Button](https://github.com/CJRosas/BlipTune/blob/master/Media/Screenshot%202022-04-26%20000906.png)
 
+***
+
 ### Future Additions
 - **Sample library**: The addition of a library of looping samples would be beneficial and expand the usable applications of this software.
 - **Recording Capability**: Some users have voiced the desire to record their audio performances in the app for personal usage outside of the BlipTune app. To achieve this, we would also need to silence the app button sounds for cleaner recordings (clicking from slider and button click audio).
 - **Expand Smash Mode**: The expanding of smash mode to work for all blips (instead of just the first default spawned blip) would expand the appplications of this software greatly, allowing users to even branch into the use of finite (non-looping) samples for blips
 
 ### Final Notes
-The frequency, amplitude, and HRTF controls of this app may be altered to any user's audio interaction needs. For example, one may choose to use the blip's height as a loop speed control instead of frequency control, or use smash mode as a way to control a blip's frequency (much like a theremin). The current configuration of this app is simply an entry point into the use of the HoloLens 2 for audio synthesis and interaction.
+- The frequency, amplitude, and HRTF controls of this app may be altered to any user's audio interaction needs. For example, one may choose to use the blip's height as a loop speed control instead of frequency control, or use smash mode as a way to control a blip's frequency (much like a theremin). The current configuration of this app is simply an entry point into the use of the HoloLens 2 for audio synthesis and interaction.
