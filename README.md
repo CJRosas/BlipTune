@@ -13,7 +13,7 @@ This audio interaction project was built for the Microsoft HoloLens 2 as part of
 
 ## Basic Controls
 - The **frequency** of each blip is controlled by its height in space. Higher elevation = higher frequency.
-- The **amplitude** of each blip is controlled by its distance from the user (*[Smash Mode](https://github.com/CJRosas/BlipTune/blob/master/README.md#L33) for the default blip is a special case*)
+- The **amplitude** of each blip is controlled by its distance from the user (*[Smash Mode](#The-Hand-Menu) for the default blip is a special case*)
 - The **directionality** of audio for each blip is controlled by the Microsoft HRTF Spatializer. This anchor's each blip's audio in space and creates a very convincing 3D audio effect
   - The MS HRTF Spatializer also adds a small amount of doppler effect to the audio emitted from each blip
 - Each blip has 3 main controls attached to them described under ["The Blip Interface"](#The-Blip-Interface) heading
