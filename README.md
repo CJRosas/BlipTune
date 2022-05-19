@@ -6,7 +6,8 @@ This project was built as a Senior Capstone requirement for the Music Technnolog
 - The amplitude of each blip is controlled by its distance from the user (*Smash Mode for the default blip is a special case*)
 - The directionality of audio for each blip is controlled by the Microsoft HRTF Spatializer. This anchor's each blip's audio in space and creates a very convincing 3D audio effect
   - The MS HRTF Spatializer also adds a small amount of doppler effect to the audio emitted from each blip
-- Each blip has 3 main controls attached to them described [here](##The-Blip-Interface)
+- Each blip has 3 main controls attached to them described under ["The Blip Interface"](#The-Blip-Interface) heading
+- The user also has access to a hand menu with 3 controls described under ["The Hand Menu"](#The-Hand_Menu) heading
 
 ### Main Project Goals
 - Create a unique approach to audio exploration which fosters discovery led by the ears 
