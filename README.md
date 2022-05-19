@@ -27,7 +27,7 @@ The interface on each spherical "Blip" was designed to maximize creative possibi
 - **"X" button (on back of blip)**: Deletes the blip it is attached to
 
 ## The Hand Menu
-![A stack of 3 buttons](https://github.com/CJRosas/BlipTune/blob/master/Media/Screenshot%202022-04-25%20233329.png)
+![A stack of 3 buttons](https://github.com/CJRosas/BlipTune/blob/master/Media/Screenshot%202022-04-25%20233329.png) <br/>
 The hand menu appears on the ulnar side of the user's hand when either the user places either plam facing upward (left priority).
 - **Add Blip Button**: Instantiates the blip prefab and places it at the location in space that the first blip appeared
 - **Smash Mode Button**: Allows the user to control the amplitude of the first default spawned blip via the distance of either hand from the blip. The closer the user's hand is to the blip, the louder it becomes. Then as the hand moves away, the amplitude decreases.
